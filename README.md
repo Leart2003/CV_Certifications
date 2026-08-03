@@ -1,3 +1,3 @@
 ## 📜 Certificates
 
-- C# Certificate: [View PDF](DSA.pdf)
+<img src="CV_Certificates/DSA.png" width="500">
