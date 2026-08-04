@@ -14,7 +14,7 @@
 <img src="./Leart-Maloku-signed_page-0001.jpg" width="500" alt="Responsive Web Certificate">
 
 <h3>Build Responsive RealWorld Websited with HTML</h3>
-<img src="./Build Responsive RealWorld Websited with HTML.jpg" width="500" alt="Responsive Web Certificate">
+<img src="./UC-7db83230-3b51-44e3-8cbc-1ee97fce3ede.jpg" width="500" alt="Responsive Web Certificate">
 
 <h3>FullStack Development</h3>
 <img src="./Leart Maloku (4)_page-0001.jpg">
